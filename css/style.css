@@ -8,6 +8,11 @@
     scroll-behavior: smooth;
 }
 /*====== Start Common style ====== */
+p {
+    font-size: 1.8rem;
+    font-weight: normal;
+    line-height: 150%;
+}
 a {
     text-decoration: none;
   }
